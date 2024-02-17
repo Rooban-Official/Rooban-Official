@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rooban-Official
-- 👀 I’m interested in Red Team
-- 🌱 I’m currently learning Penetration Testing
+- 👋 Hi, I’m Rooban Prakash (aka) Cyber Prakash
+- 👀 I’m interested in SOC Automation
+- 🌱 I’m currently learning SOC (SIEM, DLP, SOAR)
 - 📫 How to reach me : mail @ roobanofficial1@gmail.com
 
 <!---
