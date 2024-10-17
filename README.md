@@ -1,4 +1,4 @@
-# 💼 [Your Name] - Cybersecurity Analyst | Aspiring DevOps Engineer
+# 💼 Rooban Prakash K - Cybersecurity Analyst | Aspiring DevOps Engineer
 
 Welcome to my portfolio! I'm a dedicated cybersecurity analyst with experience in Security Operations Center (SOC) and Data Loss Prevention (DLP). I’m currently expanding my skillset towards DevOps, aiming to bridge the gap between security and operations to ensure secure, scalable systems.
 
@@ -18,7 +18,7 @@ Welcome to my portfolio! I'm a dedicated cybersecurity analyst with experience i
 
 ## 📚 Projects
 
-### [1. Security Automation in SOC](link-to-project)
+### [1. Security Automation in SOC]
 Automated common security operations tasks using Python and Bash scripting to streamline incident response, resulting in a 30% reduction in incident handling time.
 
 **Technologies**: Python, Bash, SIEM Tools
@@ -48,6 +48,6 @@ Currently working on building a secure CI/CD pipeline for a web application, int
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [Your LinkedIn Profile](link-to-linkedin)
+- **LinkedIn**: www.linkedin.com/in/RoobanPrakash
 - **Twitter**: [@YourTwitterHandle](link-to-twitter)
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
