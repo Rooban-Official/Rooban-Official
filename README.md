@@ -24,14 +24,14 @@ Automated common security operations tasks using Python and Bash scripting to st
 **Technologies**: Python, Bash, SIEM Tools
 
 ### [2. DLP Policy Management System](link-to-project)
-Developed a policy management system to ensure data loss prevention rules are efficiently managed, with automated alerts for non-compliance.
+Monitor Data flow in the organization and implement the right solution and monitor the confidential and source codes in all the channels.
 
 **Technologies**: Splunk, Python, ElasticSearch
 
 ### [3. CI/CD Pipeline for a Secure Web App](link-to-project)
 Currently working on building a secure CI/CD pipeline for a web application, integrating security scans at every stage to ensure secure deployments.
 
-**Technologies**: Jenkins, Docker, Kubernetes, SonarQube, AWS
+**Technologies**: Jenkins, Docker, Kubernetes, AWS
 
 ## 🛠 Tools & Technologies
 
@@ -49,5 +49,4 @@ Currently working on building a secure CI/CD pipeline for a web application, int
 ## 📫 Get in Touch
 
 - **LinkedIn**: www.linkedin.com/in/RoobanPrakash
-- **Twitter**: [@YourTwitterHandle](link-to-twitter)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [Roobanofficial1@gmail.com](mailto:roobanofficial1@gmail.com)
