@@ -1,63 +1,53 @@
-- 👋 Hi, I’m Rooban Prakash (aka) Cyber Prakash
-- 👀 I’m interested in SOC Automation
-- 🌱 I’m currently learning SOC (SIEM, DLP, SOAR)
-- 📫 How to reach me : mail @ roobanofficial1@gmail.com
+# 💼 [Your Name] - Cybersecurity Analyst | Aspiring DevOps Engineer
 
-<!---
-Rooban-Official/Rooban-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# SOC Analyst Profile
+Welcome to my portfolio! I'm a dedicated cybersecurity analyst with experience in Security Operations Center (SOC) and Data Loss Prevention (DLP). I’m currently expanding my skillset towards DevOps, aiming to bridge the gap between security and operations to ensure secure, scalable systems.
 
-## Hi there! 👋
+## 🔍 About Me
 
-I'm [Your Name], a passionate and detail-oriented SOC Analyst with a strong background in cybersecurity. My goal is to contribute my skills and expertise to enhance and secure digital environments.
+- **Current Role**: SOC Analyst with 2+ years of experience in incident response, threat detection, and security operations.
+- **Skills**: 
+  - Cybersecurity (SOC, DLP, Incident Response)
+  - Security Information and Event Management (SIEM) Tools
+  - Vulnerability Management and Threat Hunting
+  - Automating security tasks using scripting (Python, Bash)
+- **Transitioning Into**: 
+  - **DevOps & Cloud Engineering**
+  - Continuous Integration/Continuous Delivery (CI/CD)
+  - Infrastructure as Code (IaC) using tools like Terraform and Ansible
+  - Cloud Platforms (AWS, Azure, GCP)
 
-### 🔍 About Me
+## 📚 Projects
 
-- 💼 Currently working as a SOC Analyst at [Current Employer].
-- 🎓 Graduated with a degree in [Your Degree] from [Your University].
-- 🌐 Constantly learning and staying updated on the latest cybersecurity trends and threat landscapes.
+### [1. Security Automation in SOC](link-to-project)
+Automated common security operations tasks using Python and Bash scripting to streamline incident response, resulting in a 30% reduction in incident handling time.
 
-### 💻 Skills
+**Technologies**: Python, Bash, SIEM Tools
 
-- **Security Monitoring:** Proficient in monitoring security alerts and incidents using tools like [List of Tools].
-- **Incident Response:** Experienced in incident detection, analysis, and response protocols.
-- **Threat Intelligence:** Stay informed about the latest threats and vulnerabilities to proactively defend the network.
-- **SIEM:** Skilled in working with Security Information and Event Management (SIEM) systems.
-- **Network Security:** Understanding of network protocols, firewalls, and intrusion detection/prevention systems.
+### [2. DLP Policy Management System](link-to-project)
+Developed a policy management system to ensure data loss prevention rules are efficiently managed, with automated alerts for non-compliance.
 
-### 🚀 Projects
+**Technologies**: Splunk, Python, ElasticSearch
 
-#### [Project Name 1]
+### [3. CI/CD Pipeline for a Secure Web App](link-to-project)
+Currently working on building a secure CI/CD pipeline for a web application, integrating security scans at every stage to ensure secure deployments.
 
-- Description: Brief description of the project.
-- Technologies Used: List of technologies used.
-- Link: [Link to the project if applicable]
+**Technologies**: Jenkins, Docker, Kubernetes, SonarQube, AWS
 
-#### [Project Name 2]
+## 🛠 Tools & Technologies
 
-- Description: Brief description of the project.
-- Technologies Used: List of technologies used.
-- Link: [Link to the project if applicable]
+- **DevSecOps**: Jenkins, Docker, Kubernetes, SonarQube, Terraform, Ansible
+- **Cloud**: AWS, Azure, GCP
+- **Programming**: Python, Bash, YAML, JSON
+- **Security**: SIEM (Splunk, ELK), DLP Tools, Vulnerability Scanners
 
-### 📚 Certifications
+## 🎯 Goals
 
-- Certified Information Systems Security Professional (CISSP)
-- CompTIA Security+
-- [Any other relevant certifications]
+- Transition into a DevOps or Cloud Engineering role by integrating security best practices into automated workflows.
+- Build scalable, secure cloud infrastructure to support businesses of all sizes.
+- Contribute to open-source projects focused on DevOps and security automation.
 
-### 📈 GitHub Stats
+## 📫 Get in Touch
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
-### 📫 Contact Me
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Email: your.email@example.com
-
-### 🤝 Let's Connect!
-
-Feel free to reach out if you are interested in collaboration, discussions, or just want to connect. I'm always open to new opportunities and conversations in the cybersecurity community.
-
-Happy coding and stay secure! 🔒
+- **LinkedIn**: [Your LinkedIn Profile](link-to-linkedin)
+- **Twitter**: [@YourTwitterHandle](link-to-twitter)
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
